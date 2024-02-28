@@ -4,7 +4,10 @@
 
 ✅ progress: 2 of 8 completed
 
+
 📆 start date: 02.03.2024 | completion date: _pending_
+
+
 
 
 ## About This Certificate
