@@ -1,7 +1,7 @@
 # [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-▶️ status: _in progress_
-✅ progress: 2 of 8 completed
+- ▶️ status: _in progress_
+- ✅ progress: 2 of 8 completed
 
 📆 start date: 02.03.2024 | completion date: _pending_
 
